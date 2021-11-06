@@ -8,6 +8,17 @@ PRODUCTO
 * http://localhost:8081/productos/actualizar/:id
 * http://localhost:8081/productos/borrar/:id
 
+MODELO PRODUCTO
+
+{
+  "nombre": "",
+  "precio": ,
+  "stock": ,
+  "descripcion": "",
+  "codigo": "",
+  "imagen": "",
+}
+
 CARRITO
 
 * http://localhost:8081/carrito/listar
