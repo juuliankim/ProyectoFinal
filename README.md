@@ -1,6 +1,6 @@
 # ProyectoFinal
 
-PRODUCTO
+### PRODUCTO
 
 * http://localhost:8081/productos/listar
 * http://localhost:8081/productos/listar/:id
@@ -8,18 +8,18 @@ PRODUCTO
 * http://localhost:8081/productos/actualizar/:id
 * http://localhost:8081/productos/borrar/:id
 
-MODELO PRODUCTO
+### MODELO PRODUCTO
 
-{>
-  "nombre": "",>
-  "precio": ,>
-  "stock": ,>
-  "descripcion": "",>
-  "codigo": "",>
-  "imagen": "",>
-}>
+{
+  "nombre": "", 
+  "precio": ,
+  "stock": ,
+  "descripcion": "",
+  "codigo": "",
+  "imagen": "",
+}
 
-CARRITO
+### CARRITO
 
 * http://localhost:8081/carrito/listar
 * http://localhost:8081/carrito/listar/:id
