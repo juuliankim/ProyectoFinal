@@ -10,14 +10,14 @@ PRODUCTO
 
 MODELO PRODUCTO
 
-{
-  "nombre": "",
-  "precio": ,
-  "stock": ,
-  "descripcion": "",
-  "codigo": "",
-  "imagen": "",
-}
+{>
+  "nombre": "",>
+  "precio": ,>
+  "stock": ,>
+  "descripcion": "",>
+  "codigo": "",>
+  "imagen": "",>
+}>
 
 CARRITO
 
